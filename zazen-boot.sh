@@ -7,7 +7,7 @@
 
 set -euo pipefail
 
-REPO_URL="https://github.com/zenez999/Japan_arch.install.git"
+REPO_URL="https://github.com/zenez999/zazen-linux.git"
 TARGET_DIR="$HOME/.local/share/zazen-linux"
 
 CYAN='\033[0;36m'
