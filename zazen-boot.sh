@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 #
 # Zazen Linux — bootstrap
-# https://github.com/zenez999/Japan_arch.install
+# https://github.com/zenez999/zazen-linux
 #
 # Ein Atemzug genügt, um zu beginnen.
 
