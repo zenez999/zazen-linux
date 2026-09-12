@@ -259,7 +259,7 @@ paru -S --needed --noconfirm \
     ttf-rubik-vf \
     qt6-m3shapes-git \
     swappy \
-    floorp-bin \
+    zen-browser-bin\
     vscodium-bin \
     hyprmod \
     ttf-udev-gothic \
