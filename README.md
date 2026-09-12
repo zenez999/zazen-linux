@@ -54,7 +54,7 @@ A few small rules guided every choice in this project:
   tuning its config file
 
 **Apps**
-- Floorp — browser
+- zen — browser
 - kitty — terminal
 - Discord, VSCodium, Boostnote, Spotify
 
